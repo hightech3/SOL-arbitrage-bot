@@ -1,4 +1,4 @@
-# Sol Win Bot (@Sol_Win_Bot)
+# Solana Arbitrage Telegram Bot
 
 ## Description
 
